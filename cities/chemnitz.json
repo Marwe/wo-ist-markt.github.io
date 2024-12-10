@@ -10,7 +10,7 @@
 			},
 			"properties": {
 				"location": "Markt/Neumarkt",
-				"opening_hours": "Jan 02-Mar 30 Tu-Fr 09:00-16:00 Sa 09:00-13:00; Apr 01-Dec 31 Tu-Fr 09:00-17:00 Sa  09:00-13:00;",
+				"opening_hours": "Jan 02-Mar 30 Tu-Fr 09:00-16:00, Sa 09:00-13:00; Apr 01-Dec 31 Tu-Fr 09:00-17:00, Sa 09:00-13:00",
 				"opening_hours_unclassified": null,
 				"title": "Wochenmarkt"
 			},
